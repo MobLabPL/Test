@@ -7,6 +7,14 @@ namespace Controle.Host
         public static void Main(string[] args)
         {
             Console.WriteLine("CCCCCCCCCCCCCCCCCCCCC");
+            Console.WriteLine("CCCCCCCCCCCCCCCCCCCCC");
+            Console.WriteLine("CCCCCCCCCCCCCCCCCCCCC");
+            Console.WriteLine("CCCCCCCCCCCCCCCCCCCCC");
+            Console.WriteLine("CCCCCCCCCCCCCCCCCCCCC");
+            Console.WriteLine("CCCCCCCCCCCCCCCCCCCCC");
+            Console.WriteLine("CCCCCCCCCCCCCCCCCCCCC");
+            Console.WriteLine("CCCCCCCCCCCCCCCCCCCCC");
+            Console.WriteLine("CCCCCCCCCCCCCCCCCCCCC");
             Console.ReadKey();
         }
     }
