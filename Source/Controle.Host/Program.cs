@@ -6,7 +6,7 @@ namespace Controle.Host
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Test t test t test");
+            Console.WriteLine("CCCCCCCCCCCCCCCCCCCCC");
             Console.ReadKey();
         }
     }
