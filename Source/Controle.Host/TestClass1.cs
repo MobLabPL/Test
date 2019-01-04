@@ -10,4 +10,9 @@ namespace Controle.Host
     {
         private string Test { get; }
     }
+
+    class TestClass2
+    {
+        private string Test { get; }
+    }
 }
