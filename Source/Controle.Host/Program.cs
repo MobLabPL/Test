@@ -6,15 +6,15 @@ namespace Controle.Host
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("CCCCCCCCCCCCCCCCCCCCC");
-            Console.WriteLine("CCCCCCCCCCCCCCCCCCCCC");
-            Console.WriteLine("CCCCCCCCCCCCCCCCCCCCC");
-            Console.WriteLine("CCCCCCCCCCCCCCCCCCCCC");
-            Console.WriteLine("CCCCCCCCCCCCCCCCCCCCC");
-            Console.WriteLine("CCCCCCCCCCCCCCCCCCCCC");
-            Console.WriteLine("CCCCCCCCCCCCCCCCCCCCC");
-            Console.WriteLine("CCCCCCCCCCCCCCCCCCCCC");
-            Console.WriteLine("CCCCCCCCCCCCCCCCCCCCC");
+            Console.WriteLine("1");
+            Console.WriteLine("asdf");
+            Console.WriteLine("1");
+            Console.WriteLine("1");
+            Console.WriteLine("asdf");
+            Console.WriteLine("1");
+            Console.WriteLine("1");
+            Console.WriteLine("1");
+            Console.WriteLine("asdf");
             Console.ReadKey();
         }
     }
